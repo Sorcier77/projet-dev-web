@@ -150,4 +150,3 @@ git push -u origin nouvelle-fonctionnalite
 
   
 
-Ces commandes vous permettront de réaliser toutes les étapes demandées dans votre exercice sur Git.
