@@ -1,4 +1,7 @@
-Exercice : Suivre l'évolution d'un fichier avec GIT.
+# Exercice : Suivre l'évolution d'un fichier avec GIT.
+
+**Vous êtes sur l'autre branche créée**
+
 
 1. créer un projet et l'initialiser avec Git.
 2. créer un fichier(ce README) et faire un premier commit.
